@@ -32,3 +32,30 @@ The system detects helmet violations, tracks objects, logs violations with locat
 ### 1️⃣ Install dependencies
 ```bash
 pip install -r requirements.txt
+
+---
+
+## 📊 Performance Metrics
+
+- ⏱️ Inference Time: ~30–40 ms  
+- ⚡ FPS: ~25–30 FPS  
+- 🎯 mAP50: ~0.90+  
+
+---
+
+## 📸 Results
+
+### 🔍 Detection Output
+![Detection](assets/Evidence.png)
+
+### 📊 Dashboard
+![Dashboard](assets/DASHBOARD.png)
+
+### 📊 Dashboard View 2
+![Dashboard2](assets/DASHBOARD%20(2).png)
+
+### 🧾 Logs
+![Logs](assets/LOGS.png)
+
+### 📈 Training Results
+![Results](assets/results.png)
